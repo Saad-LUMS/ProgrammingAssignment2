@@ -37,5 +37,5 @@ cacheSolve <- function(x, ...) {
   inv
 }
 
-## Using the above functions in R gives the correct output.
+## Using the above functions in R Studio gives the correct output.
 
